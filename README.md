@@ -1,3 +1,5 @@
+# Note: this project is deprecated, and should no longer be used as a baseimage for game servers.
+
 ## steam
 steam installs the steam platform, which is required for most dedicated
 source gameserves. This image is useless on its own, but can be used to
